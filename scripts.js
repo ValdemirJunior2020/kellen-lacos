@@ -5,27 +5,27 @@ const items = [
         image: 'lacoroxo.png'
     },
     {
-        title: 'Laco 1',
+        title: 'Laco1',
         description: 'Description of Laco 1.',
         image: 'laco1.png'
     },
     {
-        title: 'Laco 2',
+        title: 'Laco2',
         description: 'Description of Laco 2.',
         image: 'laco2.png'
     },
     {
-        title: 'Laco 3',
+        title: 'Laco3',
         description: 'Description of Laco 3.',
         image: 'laco3.png'
     },
     {
-        title: 'Laco 4',
+        title: 'Laco4',
         description: 'Description of Laco 4.',
         image: 'laco4.png'
     },
     {
-        title: 'Laco 5',
+        title: 'Laco5',
         description: 'Description of Laco 5.',
         image: 'laco5.png'
     }

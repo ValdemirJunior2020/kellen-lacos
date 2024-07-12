@@ -1,5 +1,5 @@
 body {
-    background-color: #f8f9fa;
+    background-color: #ffc1c1; /* Pastel red */
     font-family: Arial, sans-serif;
 }
 
@@ -10,6 +10,7 @@ body {
 .card {
     margin-bottom: 20px;
     border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow to cards */
 }
 
 .card-img-top {
@@ -17,6 +18,7 @@ body {
     height: auto;
     object-fit: cover;
     max-height: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow to images */
 }
 
 .card-title {
