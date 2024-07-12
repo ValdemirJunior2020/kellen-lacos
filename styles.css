@@ -39,3 +39,8 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+.star-rating {
+    color: #f8c900;
+    margin-bottom: 10px;
+}

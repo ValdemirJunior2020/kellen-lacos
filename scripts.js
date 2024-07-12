@@ -5,7 +5,7 @@ const items = [
         image: 'lacoroxo.png'
     },
     {
-        title: 'Laco1',
+        title: 'Laco 1',
         description: 'Description of Laco 1.',
         image: 'laco1.png'
     },
@@ -47,6 +47,13 @@ function loadItems() {
                 <div class="card">
                     <img src="${item.image}" class="card-img-top" alt="${item.title}">
                     <div class="card-body">
+                        <div class="star-rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
                         <h5 class="card-title">${item.title}</h5>
                         <p class="card-text">${item.description} <a href="https://wa.me/5544999846579">Contato: 44 999846579</a></p>
                     </div>
