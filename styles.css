@@ -19,6 +19,7 @@ body {
     object-fit: cover;
     max-height: 200px; /* Smaller images */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increased shadow for images */
+    margin-top: 10px; /* Move image down inside the card */
 }
 
 .card-title {
