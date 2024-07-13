@@ -11,6 +11,7 @@ body {
     margin-bottom: 20px;
     border: none;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increased shadow for cards */
+    overflow: hidden; /* Ensure the enlarged image doesn't overflow the card */
 }
 
 .card-img-top {
@@ -20,6 +21,11 @@ body {
     max-height: 200px; /* Smaller images */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increased shadow for images */
     margin-top: 10px; /* Move image down inside the card */
+    transition: transform 0.3s ease; /* Smooth transition for scaling effect */
+}
+
+.card-img-top:hover {
+    transform: scale(1.1); /* Enlarge image on hover */
 }
 
 .card-title {

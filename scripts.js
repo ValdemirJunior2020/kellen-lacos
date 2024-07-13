@@ -5,29 +5,69 @@ const items = [
         image: 'lacoroxo.png'
     },
     {
-        title: 'Laco1',
+        title: 'Laco 1',
         description: 'Description of Laco 1.',
         image: 'laco1.png'
     },
     {
-        title: 'Laco2',
+        title: 'Laco 2',
         description: 'Description of Laco 2.',
         image: 'laco2.png'
     },
     {
-        title: 'Laco3',
+        title: 'Laco 3',
         description: 'Description of Laco 3.',
         image: 'laco3.png'
     },
     {
-        title: 'Laco4',
+        title: 'Laco 4',
         description: 'Description of Laco 4.',
         image: 'laco4.png'
     },
     {
-        title: 'Laco5',
+        title: 'Laco 5',
         description: 'Description of Laco 5.',
         image: 'laco5.png'
+    },
+    {
+        title: 'Laco 6',
+        description: 'Description of Laco 6.',
+        image: 'laco6.png'
+    },
+    {
+        title: 'Laco 7',
+        description: 'Description of Laco 7.',
+        image: 'laco7.png'
+    },
+    {
+        title: 'Laco 8',
+        description: 'Description of Laco 8.',
+        image: 'laco8.png'
+    },
+    {
+        title: 'Laco 9',
+        description: 'Description of Laco 9.',
+        image: 'laco9.png'
+    },
+    {
+        title: 'Laco 10',
+        description: 'Description of Laco 10.',
+        image: 'laco10.png'
+    },
+    {
+        title: 'Laco 11',
+        description: 'Description of Laco 11.',
+        image: 'laco11.png'
+    },
+    {
+        title: 'Laco 12',
+        description: 'Description of Laco 12.',
+        image: 'laco12.png'
+    },
+    {
+        title: 'Laco 13',
+        description: 'Description of Laco 13.',
+        image: 'laco13.png'
     }
 ];
 
